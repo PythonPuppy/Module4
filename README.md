@@ -1,6 +1,5 @@
-# Module
-
-# The data provided is Student Data and School Data to analyse the district wide atandardized school results . The key metrics are
+Module
+The data provided is Student Data and School Data to analyse the district wide atandardized school results . The key metrics are
 Total number of unique schools
 Total students
 Total budget
